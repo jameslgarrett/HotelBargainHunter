@@ -15,9 +15,10 @@ C:\Projects\GitHub\HotelBargainHunter\HotelBargainHunter\bin\Debug\HotelBargainH
 C:\Projects\GitHub\HotelBargainHunter\HotelBargainHunter\bin\Debug\HotelBargainHunter.exe
 C:\Projects\GitHub\HotelBargainHunter\HotelBargainHunter\bin\Debug\HotelBargainHunter.pdb
 C:\Projects\GitHub\HotelBargainHunter\HotelBargainHunter\bin\Debug\HtmlAgilityPack.dll
-C:\Projects\GitHub\HotelBargainHunter\HotelBargainHunter\bin\Debug\ThoughtWorks.Selenium.Core.dll
 C:\Projects\GitHub\HotelBargainHunter\HotelBargainHunter\bin\Debug\HtmlAgilityPack.pdb
 C:\Projects\GitHub\HotelBargainHunter\HotelBargainHunter\bin\Debug\HtmlAgilityPack.xml
-C:\Projects\GitHub\HotelBargainHunter\HotelBargainHunter\obj\Debug\HotelBargainHunter.csprojResolveAssemblyReference.cache
 C:\Projects\GitHub\HotelBargainHunter\HotelBargainHunter\obj\Debug\HotelBargainHunter.exe
 C:\Projects\GitHub\HotelBargainHunter\HotelBargainHunter\obj\Debug\HotelBargainHunter.pdb
+C:\Projects\GitHub\HotelBargainHunter\HotelBargainHunter\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\GitHub\HotelBargainHunter\HotelBargainHunter\bin\Debug\Newtonsoft.Json.pdb
+C:\Projects\GitHub\HotelBargainHunter\HotelBargainHunter\bin\Debug\Newtonsoft.Json.xml

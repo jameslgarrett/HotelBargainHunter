@@ -16,7 +16,16 @@ namespace HotelBargainHunter
         public String streetAddress;
         public String city;
         public String zipCode;
+        public String country;
+
+        // Match info
         public bool marriottMatch = false;
+        public bool hotelsComMatch = false;
+
+        //Hotels.com specific variables
+        public String hotelsComUserRating;
+        public String hotelsComStarRating;
+        public String hotelsComGuestRating;
 
         public Hotel()
         {
