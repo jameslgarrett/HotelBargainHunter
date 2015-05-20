@@ -1,0 +1,16 @@
+C:\Users\JamesGarrett\Documents\Visual Studio 2013\Projects\MarriottScraper\MarriottScraper\MarriottScraper\bin\Debug\MarriottScraper.exe.config
+C:\Users\JamesGarrett\Documents\Visual Studio 2013\Projects\MarriottScraper\MarriottScraper\MarriottScraper\bin\Debug\MarriottScraper.exe
+C:\Users\JamesGarrett\Documents\Visual Studio 2013\Projects\MarriottScraper\MarriottScraper\MarriottScraper\bin\Debug\MarriottScraper.pdb
+C:\Users\JamesGarrett\Documents\Visual Studio 2013\Projects\MarriottScraper\MarriottScraper\MarriottScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\JamesGarrett\Documents\Visual Studio 2013\Projects\MarriottScraper\MarriottScraper\MarriottScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\JamesGarrett\Documents\Visual Studio 2013\Projects\MarriottScraper\MarriottScraper\MarriottScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\JamesGarrett\Documents\Visual Studio 2013\Projects\MarriottScraper\MarriottScraper\MarriottScraper\obj\Debug\MarriottScraper.csprojResolveAssemblyReference.cache
+C:\Users\JamesGarrett\Documents\Visual Studio 2013\Projects\MarriottScraper\MarriottScraper\MarriottScraper\obj\Debug\MarriottScraper.exe
+C:\Users\JamesGarrett\Documents\Visual Studio 2013\Projects\MarriottScraper\MarriottScraper\MarriottScraper\obj\Debug\MarriottScraper.pdb
+C:\Users\JamesGarrett\Documents\Visual Studio 2013\Projects\MarriottScraper\MarriottScraper\MarriottScraper\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\JamesGarrett\Documents\Visual Studio 2013\Projects\MarriottScraper\MarriottScraper\MarriottScraper\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\JamesGarrett\Documents\Visual Studio 2013\Projects\MarriottScraper\MarriottScraper\MarriottScraper\bin\Debug\WebDriver.dll
+C:\Users\JamesGarrett\Documents\Visual Studio 2013\Projects\MarriottScraper\MarriottScraper\MarriottScraper\bin\Debug\WebDriver.Support.dll
+C:\Projects\GitHub\HotelBargainHunter\MarriottScraper\bin\Debug\MarriottScraper.exe.config
+C:\Projects\GitHub\HotelBargainHunter\MarriottScraper\obj\Debug\MarriottScraper.exe
+C:\Projects\GitHub\HotelBargainHunter\MarriottScraper\obj\Debug\MarriottScraper.pdb

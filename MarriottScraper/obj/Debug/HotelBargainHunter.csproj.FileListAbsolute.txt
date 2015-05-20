@@ -1,0 +1,13 @@
+C:\Projects\GitHub\HotelBargainHunter\MarriottScraper\bin\Debug\MarriottScraper.exe.config
+C:\Projects\GitHub\HotelBargainHunter\MarriottScraper\bin\Debug\MarriottScraper.exe
+C:\Projects\GitHub\HotelBargainHunter\MarriottScraper\bin\Debug\MarriottScraper.pdb
+C:\Projects\GitHub\HotelBargainHunter\MarriottScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Projects\GitHub\HotelBargainHunter\MarriottScraper\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Projects\GitHub\HotelBargainHunter\MarriottScraper\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Projects\GitHub\HotelBargainHunter\MarriottScraper\bin\Debug\WebDriver.dll
+C:\Projects\GitHub\HotelBargainHunter\MarriottScraper\bin\Debug\WebDriver.Support.dll
+C:\Projects\GitHub\HotelBargainHunter\MarriottScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Projects\GitHub\HotelBargainHunter\MarriottScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Projects\GitHub\HotelBargainHunter\MarriottScraper\obj\Debug\HotelBargainHunter.csprojResolveAssemblyReference.cache
+C:\Projects\GitHub\HotelBargainHunter\MarriottScraper\obj\Debug\MarriottScraper.exe
+C:\Projects\GitHub\HotelBargainHunter\MarriottScraper\obj\Debug\MarriottScraper.pdb
